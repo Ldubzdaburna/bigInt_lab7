@@ -57,7 +57,3 @@ g++ benchmark_compare.cpp -o benchmark
 - Chart visualizations for timing differences (included separately)
 
 ---
-
-## Author
-
-Lab implemented for academic use — supports arbitrary-precision arithmetic and fractional benchmarking using custom BigInt logic.
